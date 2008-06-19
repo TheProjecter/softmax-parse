@@ -1,0 +1,10 @@
+#labels Featured,about
+
+= Introduction =
+
+The SoftMax parser was written to streamline the process of extracting kinetics data from experiments done using SoftMax plate reading software.  Because SoftMax exports data from a timed kinetics run in the form of plate readings at each time point, our lab found it difficult to extract the kinetics of each individual sample without copying and pasting hundreds of times.  This program has been very useful, but still has many bugs.  Therefore I strongly encourage you to spot check the output data to make sure it is working properly until later, more stable versions are released.
+
+
+= Details =
+
+This program is written in Python and requires the latest python libraries.  They can be found at [http://www.python.org/].  It is text based, but hopefully self-explanitory (see help in program for more info).  Feel free to send me email with any questions you may have.
